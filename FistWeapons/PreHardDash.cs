@@ -22,7 +22,7 @@ namespace WeaponOutExtension.FistWeapons
                 "<right> to dash through enemies\n" +
                 "Dash grants 10% increased melee damage\n" +
                 "Combo restores some life after striking an enemy\n" +
-                "'The most simple and versatile subclass'");
+                "'The simplest, yet most versatile fist type'");
             altEffect = ModPlayerFists.RegisterDashEffectID(DashEffects);
         }
         public override void SetDefaults()

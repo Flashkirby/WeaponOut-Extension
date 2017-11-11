@@ -21,7 +21,7 @@ namespace WeaponOutExtension.FistWeapons
             Tooltip.SetDefault(
                 "<right> to parry, or consume combo to throw an cannonball\n" +
                 "Combo grants 100% increased melee damage\n" + 
-                "'Combo '");
+                "'Minor parry ability, coupled with projectile reflecting combo power'");
             altEffect = ModPlayerFists.RegisterComboEffectID(ComboEffects);
         }
         public override void SetDefaults()
