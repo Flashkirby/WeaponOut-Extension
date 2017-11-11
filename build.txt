@@ -1,0 +1,9 @@
+author = Flashkirby99
+version = 0.1
+displayName = WeaponOut Code Templates
+homepage = http://forums.terraria.org/index.php?threads/weaponout.47130/
+
+weakReferences = WeaponOut
+
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, *.suo, *.sln, .git, *.md, .git\*, *.fw.png *.TMP
+includePDB = false
